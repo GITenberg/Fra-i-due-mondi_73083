@@ -1,0 +1,33 @@
+_repo: Fra-i-due-mondi_73083
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferrero, Guglielmo
+    birthdate: 1871
+    deathdate: 1942
+    gutenberg_agent_id: '4910'
+    url: http://www.gutenberg.org/2009/agents/4910
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Guglielmo_Ferrero
+    - https://en.wikipedia.org/wiki/Guglielmo_Ferrero
+description: ''
+gutenberg_issued: '2024-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73083'
+language: it
+pgterms:marc905: 20230104042407ferrero
+pgterms:marc906: '1913'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images made available by Università degli Studi di
+  Torino - Sistema Bibliotecario d'Ateneo, Scienza dell'antichità, filologico letterarie
+  storico artistiche)
+publication_note: '  $aMilano :$bTreves, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fra i due mondi
+url: http://www.gutenberg.org/ebooks/73083
